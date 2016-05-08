@@ -10,3 +10,10 @@ The following packages were used during development and will be required to run 
 - [numpy](http://www.numpy.org/)
 - [plotly](https://plot.ly/python/)
 - [nltk](http://www.nltk.org/data.html)
+
+**Note** for nltk the stopwords must be downloaded.  To do so open the python console and do the following:
+1. `import nltk`
+2. `nltk.download()`
+3. `d`
+4. `stopwords`
+
