@@ -10,6 +10,7 @@ The following packages were used during development and will be required to run 
 - [numpy](http://www.numpy.org/)
 - [plotly](https://plot.ly/python/)
 - [nltk](http://www.nltk.org/data.html)
+- [naiveBayesClassifier](https://github.com/muatik/naive-bayes-classifier)*
 
 **Note** for nltk the stopwords must be downloaded.  To do so open the python console and do the following:
 
@@ -17,3 +18,5 @@ The following packages were used during development and will be required to run 
 2. `nltk.download()`
 3. `d`
 4. `stopwords`
+
+* **Note** for naiveBayesClassifier, the master branch must be used.
